@@ -1,2 +1,3 @@
 Manipulating a csv file that contains different Jeopardy sections with Pandas.
-Used functions, lambda functions, and more to be able to play with this data.
+Used functions, lambda functions, and a little bit of regular expressions to be able to play with this data.
+I was unable to load the source data because the csv file was too large for github. Please contact me if you would like me to send it to you.
